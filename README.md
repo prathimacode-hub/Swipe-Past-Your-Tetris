@@ -8,6 +8,8 @@ Inspiration drawn from childhood game I played, that is Brick Breaker Game
 
 Indulge into this hack of tetris, the game which you would never get rid of. This project would make you sharper and active. Let's see how much score you could pull it off. One of the challenging game to play with. So here tetris blocks gets pushed into the counter and user needs to adjust the blocks falling down accordingly so that they could last as much as they could. Once the counter is filled up, game gets over. You can never get tired by playing this.
 
+Youtube Link : https://www.youtube.com/watch?v=HbWAWqlEWvs
+
 ## HOW IT'S BUILT
 
 This is built using python. Had worked on it from scratch  from adding functionalities, providing blocks, activating right and left arrow keys, taking input form mouse, pushing falling pieces, cramping rows and columns, flipping up the falling pieces and many more. 
